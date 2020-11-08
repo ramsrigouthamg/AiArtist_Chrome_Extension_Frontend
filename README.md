@@ -3,7 +3,9 @@ This is the frontend code for AiArtist Chrome Extension version 3.
 AiArtist chrome extension link -
 https://chrome.google.com/webstore/detail/aiartist/odfcplkplkaoehpnclejafhhodpmjjmk
 
-
+The code needs to be compiled with the below instructions to generate the production folder that is zipped and uploaded to the chrome store.
+For easeness, I am also inlcuding the final zip file I uploaded to the chrome extension store.
+It is named as "AiArtist deployed package to chrome extension store.zip"
 
 ## Build
 
